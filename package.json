@@ -32,6 +32,9 @@
   "jest": {
     "collectCoverage": true
   },
+  "bin": {
+    "functional-test-helper": "./index.jx"
+  },
   "license": "UNLICENSED",
   "private": "true",
   "repository": {
