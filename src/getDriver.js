@@ -6,7 +6,7 @@ const fs = require('fs');
 const webdriver = require('selenium-webdriver');
 const browserstack = require('browserstack-local');
 var chrome = require("selenium-webdriver/chrome");
-const config = require('./config.json');
+const config = require('./../config.json');
 
 let driver;
 let bsLocal;

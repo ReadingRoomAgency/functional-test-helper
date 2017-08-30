@@ -1,1 +1,0 @@
-module.exports = (table) => table.rawTable[0]

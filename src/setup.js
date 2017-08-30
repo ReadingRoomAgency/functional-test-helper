@@ -1,6 +1,6 @@
 const { defineSupportCode } = require('cucumber');
 const { startDriver, getDriver, quitDriver } = require('./getDriver');
-const config = require('./config.json');
+const config = require('./../config.json');
 
 let currentSize;
 
